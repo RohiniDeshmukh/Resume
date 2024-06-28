@@ -1,6 +1,6 @@
 # Rohini Deshmukh
 
-[LinkedIn](https://www.linkedin.com/in/rohinideshmukh/) | [GitHub](https://github.com/RohiniDeshmukh) | rohinimdeshmukh14@gmail.com | +1(857)308-7396
+[LinkedIn](https://www.linkedin.com/in/rohinideshmukh) | [GitHub](https://github.com/RohiniDeshmukh) | rohinimdeshmukh14@gmail.com | +1(857)308-7396
 
 ## Education
 
@@ -12,7 +12,7 @@ Teaching Assistant for 'Introduction to Computing Engineering using Python'.
 **University of Mumbai, Maharashtra** - Mumbai, India  
 Bachelor of Engineering in Information Technology | GPA: 7.87/10  
 June 2018 - May 2021  
-Courses: Data Structures and Analysis, Database Management Services, Cloud Computing, Object-Oriented Programming, Design Patterns, Operating Systems, Machine Learning, Artificial Intelligence, User Interface Design, Graphical User Interface, Computer Science Fundamentals.
+Courses: Data Structures and Analysis, Database Management Systems, Cloud Computing, Object-Oriented Programming, Design Patterns, Operating Systems, Artificial Intelligence, Machine Learning, User Interface Design, Graphical User Interface, Computer Science Fundamentals.
 
 ## Skills
 
